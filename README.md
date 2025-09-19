@@ -1,33 +1,183 @@
-<h1 align="center">Hi 👋, I'm AnjaliThoke28</h1>
-<h3 align="center">A passionate "Data Science Enthusiast | Python Developer"</h3>
+# 💫 About Me:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Anjali+👋;Data+Science+Enthusiast+📊;Python+Developer+🐍;Always+Learning+Something+New!+💡" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalithoke28&label=Profile%20views&color=0e75b6&style=flat" alt="anjalithoke28" /> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalithoke28" alt="anjalithoke28" /></a> </p>
+### 🚀 **Current Focus**
+- 🔭 Building **Emotion Detection & Song Recommendation System**
+- 🌱 Mastering **GitOps & Advanced Data Science**
+- 🎯 Exploring **Computer Vision & Deep Learning**
+- 🤝 Open to collaborate on **IoT & AI Projects**
 
-- 🔭 I’m currently working on **Emotion Detection & Song Recommondation**
+### 💡 **What I Do**
+```python
+class AnjaliThoke:
+    def __init__(self):
+        self.name = "Anjali Thoke"
+        self.role = "Data Science Enthusiast & Python Developer"
+        self.location = "India 🇮🇳"
+        self.languages = ["Python", "JavaScript", "Java", "C++"]
+        self.current_projects = ["Emotion Detection", "Song Recommendation"]
+        self.learning = ["GitOps", "MLOps", "Deep Learning"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
 
-- 🌱 I’m currently learning **Gitops & Data Science**
+me = AnjaliThoke()
+me.say_hi()
+```
 
-- 👯 I’m looking to collaborate on **Automatic light sensor**
+### 🎧 **Fun Fact**
+> *I debug faster when music is playing! 🎵*
 
-- 🤝 I’m looking for help with **Bus Tracking System**
+---
 
-- 💬 Ask me about **Git,Github,Gitops**
+## 🛠️ **Tech Arsenal**
 
-- 📫 How to reach me **anjalithoke2@gmail.com**
-
-- ⚡ Fun fact **🎧 I debug faster when music is playing.**
-
-<h3 align="left">Connect with me:</h3>
+### **Languages**
 <p align="left">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### **Frameworks & Libraries**
+<p align="left">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalithoke28&show_icons=true&locale=en&layout=compact" alt="anjalithoke28" /></p>
+### **Cloud & DevOps**
+<p align="left">
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalithoke28&show_icons=true&locale=en" alt="anjalithoke28" /></p>
+### **Databases**
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalithoke28&" alt="anjalithoke28" /></p>
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=anjalithoke28&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=anjalithoke28&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br/>
+<img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anjalithoke28&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anjalithoke28&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🎭 **Emotion Detection** | AI-powered facial emotion recognition system | Python, OpenCV, TensorFlow | 🚧 In Progress |
+| 🎵 **Song Recommendation** | ML-based music recommendation engine | Python, Pandas, Scikit-learn | 🚧 In Progress |
+| 💡 **Smart Light Sensor** | IoT-based automatic lighting system | Arduino, C++, IoT | 🔍 Seeking Collaborators |
+| 🚌 **Bus Tracking System** | Real-time bus location tracking app | React, Node.js, MongoDB | 🤝 Need Help |
+
+</div>
+
+---
+
+## 💻 **Coding Activity**
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalithoke28&custom_title=Anjali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🌟 **Current Learning Path**
+
+```mermaid
+graph LR
+    A[Data Science] --> B[Machine Learning]
+    B --> C[Deep Learning]
+    C --> D[Computer Vision]
+    D --> E[NLP]
+    
+    F[DevOps] --> G[GitOps]
+    G --> H[MLOps]
+    H --> I[Cloud Platforms]
+    
+    J[Web Development] --> K[Full Stack]
+    K --> L[MERN Stack]
+```
+
+---
+
+## 📈 **Weekly Development Breakdown**
+
+<!--START_SECTION:waka-->
+```text
+Python       8 hrs 32 mins   ████████████░░░░░░░░░░░░░   48.2%
+JavaScript   3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.4%
+Jupyter      2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   15.6%
+HTML/CSS     1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    8.5%
+SQL          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    7.1%
+Others       25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    2.2%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+### 💬 **Ask me about:** Git • GitHub • GitOps • Python • Data Science • Machine Learning
+
+### 📫 **Reach me at:** [anjalithoke2@gmail.com](mailto:anjalithoke2@gmail.com)
+
+<p align="center">
+<a href="https://linkedin.com/in/anjalithoke28"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/anjalithoke28"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/anjalithoke28"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:anjalithoke2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=anjalithoke28&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+
+### ⭐ **"Code is like humor. When you have to explain it, it's bad."** ⭐
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
